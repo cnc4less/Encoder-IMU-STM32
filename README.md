@@ -1,3 +1,3 @@
 # Encoder-IMU-STM32
-Encoder : RPM
-IMU : Yaw
+Encoder : RPM -> STM32
+IMU : Yaw -> Nano
